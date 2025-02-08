@@ -1,7 +1,7 @@
 # Stock Return Prediction Using Neural Networks
 
 ## Project Overview
-This project applies machine learning techniques, specifically Neural Networks, to predict the next day's return of Apple Inc. (AAPL) stock. It demonstrates expertise in data preprocessing, feature engineering, and deep learning-based forecasting.
+This project is the final project for the Machine Learning course at NYU Tandon School of Engineering. It is intended as a practical exercise in applying data science methodologies and exploring multiple machine learning models for financial forecasting. The project demonstrates proficiency in data preprocessing, feature engineering, and deep learning architectures, specifically to predict the next day's return of Apple Inc. (AAPL) stock.
 
 ## Objectives
 - **Stock Market Data Analysis:** Understanding historical stock trends and movements.
